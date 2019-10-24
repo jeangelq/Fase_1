@@ -1,0 +1,17 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img{
+    width:150px;
+    height:auto;
+    margin: auto;
+    display: block;
+    border-radius: 15px;
+    box-shadow: 5px 5px 0px cornflowerblue;
+}
+
+div{
+    background: aliceblue;
+    width: 100%;
+}
