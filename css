@@ -1,0 +1,36 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+header{
+    width:100%
+    background:#f2f2f2; (blanco)
+    box-shadow:1px 1px 5px #000; (sombreado)
+    height:50px; (altura ancho)
+
+}
+
+#menu {
+    width:450px;
+    padding-top:10px;
+    margin:20px auto; (centrar)
+}
+
+#menu ul a{
+    color:#6e6e6e;
+    text-decoratión:none;
+    font:blod 16px Verdana; (tipo de letra)
+    padding:12px 20px 12px 20px; (relleno)
+    background:transparent;
+    border-bottom:9px sold transparent; (borde de abajo)
+}
+
+#menu ul a:hover{
+     border-bottom:9px sold #6e6e6e
+}
+
+
+
+Menu desplegable
+

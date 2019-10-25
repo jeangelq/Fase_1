@@ -13,7 +13,7 @@ list-style: none
 }
 
 .nav li a {
-background-color: mediumaquamarine;
+background-color: gold;
 color:black;
 width: 500px;
 text-decoration: none;
@@ -21,7 +21,7 @@ padding: 2px 2px;
 
 }
 .nav li:hover {
-background-color:bisque;
+background-color: black;
 }
 .nav > li {
 float:left
@@ -32,7 +32,44 @@ display:none;
 position: absolute;
 min-width:40px;
 }
-
 .nav li:hover > ul{
 display: block
+}
+
+.logo{
+    width:30%px;
+    margin-inline-end: auto;
+    display: block;
+}
+
+.enac {
+    width:70px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   
+}
+
+.calidad{
+    width:70px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   
+}
+
+.logo2{
+    width:150px;
+    margin-left: 85%;
+    display: block;
+
+}
+
+body{
+    background-image: url(Fondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
 }

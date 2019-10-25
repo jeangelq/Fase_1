@@ -1,5 +1,10 @@
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(fondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 img{
@@ -8,10 +13,10 @@ img{
     margin: auto;
     display: block;
     border-radius: 15px;
-    box-shadow: 5px 5px 0px cornflowerblue;
+
 }
 
 div{
-    background: aliceblue;
+    background: none;
     width: 100%;
 }
